@@ -35,7 +35,7 @@
 					  
 					  <div class="form-group">
 						<label for="nivel">Nível</label>
-						<select class = "form-control" >
+						<select name="nivel" class = "form-control" >
 							<option value = "" > Escolha uma Opção </option>
 							<option value = "1" > Administrador </option>
 							<option value = "2" > Usuário </option>
